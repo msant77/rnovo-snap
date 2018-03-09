@@ -27,6 +27,10 @@ source .t7lvb
 
 t7act vb
 vbcreate sqlsnap1 5 20 WindowsNT_64
+``` 
+
+
+
 
 
 ## Attempts on Sql Server 2014
