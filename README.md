@@ -63,3 +63,14 @@ No entries are found at Event Viewer
   - Sql Server 2012 (done) - 21:50 2018/02/08
   - Sql Server 2008 (on)
 - Look for the extensive documentation at the link above
+
+
+### Books Online
+
+[Define a Logical Backup Device for a Disk File](https://msdn.microsoft.com/en-us/library/ms189109(v=sql.110).aspx)
+
+This topic describes how to define a logical backup device for a disk file in SQL Server 2012 by using SQL Server Management Studio or Transact-SQL. A logical device is a user-defined name that points to a specific physical backup device (a disk file or tape drive). The initialization of the physical device occurs later, when a backup is written to the backup device.
+
+
+*[SQL Server 2012 Books Online Backup (Transact-SQL) page](https://msdn.microsoft.com/en-us/library/ms186865(v=sql.110).aspx) won't show a reference for neither `WITH SNAPSHOT` or `VIRTUAL_DEVICE`* 
+
