@@ -62,6 +62,4 @@ No entries are found at Event Viewer
 - Looked for discontinuation or deprecation of the snapshot and backup to virtual device on the following Sql Server versions (considering the 2005 version the one with more documetation on the matter): 
   - Sql Server 2012 (done) - 21:50 2018/02/08
   - Sql Server 2008 (on)
-
 - Look for the extensive documentation at the link above
-  = 
