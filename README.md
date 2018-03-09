@@ -65,6 +65,24 @@ No entries are found at Event Viewer
 - Look for the extensive documentation at the link above
 
 
+- dbcc freeze and unfreeze
+Link to John Huang's [article](http://www.sqlnotes.info/2011/11/28/freeze-and-unfreeze-write-io-on-a-database/)
+
+
+- [How to Create a Database Snapshot](https://docs.microsoft.com/en-us/sql/relational-databases/databases/create-a-database-snapshot-transact-sql) 
+
+- [More on Database Snapshots](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-database-sql-server-transact-sql#database-snapshots)
+
+- [Database Mirroring and Database Snapshots](https://docs.microsoft.com/en-us/sql/database-engine/database-mirroring/database-mirroring-and-database-snapshots-sql-server)
+
+- [A Guide for Sql Server Backup Application](https://technet.microsoft.com/en-us/library/cc966520.aspx)
+> this link has come from Felipe interaction with MSS
+
+- [SnapShot Creation Process](https://technet.microsoft.com/en-us/library/cc966520.aspx#EEAA) 
+
+ 
+
+
 ### Books Online
 
 [Define a Logical Backup Device for a Disk File](https://msdn.microsoft.com/en-us/library/ms189109(v=sql.110).aspx)
@@ -73,4 +91,7 @@ This topic describes how to define a logical backup device for a disk file in SQ
 
 
 *[SQL Server 2012 Books Online Backup (Transact-SQL) page](https://msdn.microsoft.com/en-us/library/ms186865(v=sql.110).aspx) won't show a reference for neither `WITH SNAPSHOT` or `VIRTUAL_DEVICE`* 
+
+
+
 
